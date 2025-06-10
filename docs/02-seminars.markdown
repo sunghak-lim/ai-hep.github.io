@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Events
-permalink: /events/
+title: Seminars
+permalink: /seminars/
 ---
 
 To be updated :)
