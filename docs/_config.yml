@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: AI+HEP
+title: AI+HEP in East Asia
 # email: sunghak.lim@ibs.re.kr
 description: >- # this means to ignore newlines until "baseurl:"
    Page under construction :)
