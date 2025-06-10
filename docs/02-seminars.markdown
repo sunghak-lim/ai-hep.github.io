@@ -5,3 +5,5 @@ permalink: /seminars/
 ---
 
 To be updated :)
+
+* Fall 2025
