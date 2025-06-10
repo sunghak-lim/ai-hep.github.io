@@ -4,6 +4,6 @@ title: Project Board
 permalink: /projectboard/
 ---
 
-To be updated :)
+This is a board to post project ideas and find collaborations and students.
 
 
