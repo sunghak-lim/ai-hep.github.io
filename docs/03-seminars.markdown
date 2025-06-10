@@ -2,6 +2,7 @@
 layout: page
 title: Seminars
 permalink: /seminars/
+order: 2
 ---
 
 
