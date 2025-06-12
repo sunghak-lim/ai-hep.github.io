@@ -5,4 +5,6 @@
 layout: home
 ---
 
-HELLO WORLD
+Welcome to our AI+HEP Community in East Asia!
+
+*Add some pics here?*
