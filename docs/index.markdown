@@ -7,4 +7,6 @@ layout: home
 
 Welcome to our AI+HEP Community in East Asia!
 
+**NEWS:** Put updated news & announcements here?
+
 *Add some pics here?*
