@@ -11,6 +11,9 @@ This page gathers learning materials for AI+HEP, both from the HEP side and the 
 
 * **Collider Physics Basics**
 
+  - **TASI Lectures on Collider Physics** by Matthew D. Schwartz: [1709.04533](https://arxiv.org/abs/1709.04533)
+
+
 * **AI Basics**
 
 * **AI for HEP**
