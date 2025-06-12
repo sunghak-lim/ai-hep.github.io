@@ -5,7 +5,7 @@ permalink: /journalclubs/
 order: 2
 ---
 
-* **Fall 2025**
+* **Summer 2025**
 
   - **June 16:** 3-4 pm Beijing time
     - Topic: Neural Network Compositionality.
